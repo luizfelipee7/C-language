@@ -36,6 +36,7 @@ int main() {
       }
     }
   }
+  printf("\ndale");
   printf("\nCODIGO DE CESAR: ");
   for (i = 0; i < tamanho_frase; i++) {
     printf("%c", vet_cripto[i]);

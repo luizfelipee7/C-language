@@ -1,0 +1,11 @@
+soro	15
+dipirona	36
+dorflex	22
+mupirocina	17
+paracetamol	25
+ibuprofeno	64
+escova	0
+rivotril	26
+losartana	17
+neosoro	35
+ritalina	100

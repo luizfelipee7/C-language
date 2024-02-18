@@ -1,0 +1,2 @@
+uma struct é semelhante a uma classe, porém a struct é definida 
+como sendo um tipo de valor enquanto a classe é um tipo de referência
